@@ -1,6 +1,8 @@
 # Why 
 
-After learning about rust, and it's features, i decided to give it a try as my choice over C++ / Java / Go. Canont really compare all three, but my goal with this project is to learn and keep practicing Rust language concepts. 
+After learning about rust, and it's features, i decided to give it a try and learn via some small projects. 
+
+Ny goal with this project is to learn and keep practicing Rust language concepts. 
 
 I'm mostly refering to the rust lang book, and each problem may be similar to the book. 
 
